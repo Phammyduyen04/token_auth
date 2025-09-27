@@ -109,6 +109,8 @@ To test the token expiry, follow these steps:
   "error": "Invalid token"
 }
 ```
+<img width="1009" height="567" alt="image" src="https://github.com/user-attachments/assets/77193a00-b7a4-4188-afac-5178f8d548a1" />
+
 ![alt text](image-3.png)
 ---
 
